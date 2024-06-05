@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743041179743",
+    "project_id": "greenflow-a9bb4",
+    "storage_bucket": "greenflow-a9bb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743041179743:android:13ee2b267e960dc1f23bea",
+        "android_client_info": {
+          "package_name": "com.example.greenflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0wUGlzqwQW1tdcjcUMxh-iOx2MRUuN_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
